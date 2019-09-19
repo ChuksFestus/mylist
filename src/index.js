@@ -9,6 +9,10 @@ const GlobalStyle = createGlobalStyle`
   * {
     padding: 0;
     margin: 0;
+    --brand: #9C0945;
+    --alegria-black: #232735;
+    --alegria-grid: #00D077;
+    --alegria-orange: #F47D00
   }
   body {
     font-family: 'Poppins', sans-serif;
